@@ -1,5 +1,5 @@
 {
-  "build_hash": "b3d9a66466ea9ed075135dbd17c0eed1",
+  "build_hash": "f8d1a42efd6e5418a3052fa24ace5fea",
   "prefix": "dm-",
   "name": "DMicons",
   "icons": [
@@ -76,6 +76,10 @@
       "name": "bookmark"
     },
     {
+      "code": "0xf132",
+      "name": "check"
+    },
+    {
       "code": "0xf130",
       "name": "circ"
     },
@@ -114,6 +118,10 @@
     {
       "code": "0xf131",
       "name": "instruc"
+    },
+    {
+      "code": "0xf133",
+      "name": "key"
     },
     {
       "code": "0xf116",
