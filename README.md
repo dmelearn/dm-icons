@@ -6,3 +6,7 @@ This web icon font set was originally based on driftyco/ionicons. Sizing and sty
 <i class="icon dm-arrow-forward" aria-hidden="true"></i>
 ~~~~
 Note: Please use `aria-hidden="true"` when using icons for decoration purposes.
+
+## Examples
+
+See [Examples](http://dmelearn.github.io/dm-icons/)
