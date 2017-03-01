@@ -1,5 +1,8 @@
 # CHANGES
 
+### v3.0.6
+- Add tick-circle icon
+
 ### v3.0.5
 - Thicker lines
 
