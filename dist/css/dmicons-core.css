@@ -110,6 +110,8 @@
 
 .dm-tick:before { content: "\f12b"; }
 
+.dm-tick-circle:before { content: "\f13a"; }
+
 .dm-time:before { content: "\f123"; }
 
 .dm-trash:before { content: "\f124"; }
