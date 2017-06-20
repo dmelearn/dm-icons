@@ -1,5 +1,5 @@
 {
-  "build_hash": "e238ed2b216f9ad7a071b1062d5d7c47",
+  "build_hash": "a0dfc75bef159e9418eba11880ff1e8d",
   "prefix": "dm-",
   "name": "DMicons",
   "icons": [
@@ -178,6 +178,10 @@
     {
       "code": "0xf11d",
       "name": "settings"
+    },
+    {
+      "code": "0xf13b",
+      "name": "shopping-cart"
     },
     {
       "code": "0xf11e",

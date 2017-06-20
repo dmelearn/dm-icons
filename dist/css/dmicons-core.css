@@ -98,6 +98,8 @@
 
 .dm-settings:before { content: "\f11d"; }
 
+.dm-shopping-cart:before { content: "\f13b"; }
+
 .dm-skip-backward:before { content: "\f11e"; }
 
 .dm-skip-forward:before { content: "\f11f"; }
@@ -127,5 +129,3 @@
 .dm-volume-up:before { content: "\f129"; }
 
 .dm-warning:before { content: "\f12a"; }
-
-/*# sourceMappingURL=dmicons-core.css.map */
